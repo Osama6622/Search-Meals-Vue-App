@@ -1,20 +1,27 @@
-# Vue 3 + Vite
+# Search Meals | Vue 3 & Vite App
 
-
-## Search Meals
 <p>Application Uses an API to fetch meals based on name, letter, and ingredient.</p>
-
-
 
 ### Info
 1. <strong>Used Techs:</strong> Vue, Vuex, Tailwindcss
 2. <strong>API endpoint:</strong> https://www.themealdb.com/api.php
 
 
-### How To View the App:
-1. install the repo.
-2. run > npm install
-3. run > npm run dev
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run dev
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
 
 
 
